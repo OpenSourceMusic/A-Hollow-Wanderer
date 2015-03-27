@@ -1,0 +1,10 @@
+# Plugins
+* DSK ElectriK GuitarZ (Free)
+* Proto Plasm TSM (Free)
+* Chip32 (Free)
+* TB Ritual (Free)
+* TB Triforce (Free)
+* GTG K 1.3 (Free)
+* Oatmeal (Free)
+* DSK Analog Matrix (Free)
+* DSK Drumz AkoustiK (Free)
